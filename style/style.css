@@ -1,0 +1,9 @@
+/* hide_anchor_link */
+.css-1n53l94.e16nr0p31 {
+  display: none
+}
+
+/* change_spinner_color */
+.stSpinner>div>div {
+  border-top-color: #a6711f;
+}
